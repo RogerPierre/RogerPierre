@@ -1,7 +1,7 @@
-## Hi there 👋I'm a Systems Analysis and Development (SDA) student. I have autism. I'm starting out as a programmer, but I don't have any experience in the field yet. I was born in Piaui, Brazil, in a rural town in Piracuruca.
+## <h1>Hi there 👋I'm a Systems Analysis and Development (SDA) student.</h1>
+<h6>I have autism. I'm starting out as a programmer, but I don't have any experience in the field yet. I was born in Piaui, Brazil, in a rural town in Piracuruca.
 I aspire to a secure and stable professional career.
-The institution where I'm studying is called "Federal Institute of Piaui: Piripiri Campus."
-
+The institution where I'm studying is called "Federal Institute of Piaui: Piripiri Campus."</h6>
 <!--
 **RogerPierre/RogerPierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
