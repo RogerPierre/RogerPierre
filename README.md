@@ -1,5 +1,4 @@
 ## <h1>Hi there 👋I'm a Systems Analysis and Development (SDA) student.</h1>
-<h6>I'm starting out as a programmer, but I don't have any experience in the field yet. </h6>
 <h2>hi, i am RogerPierre</h2>
 I have autism. 
 <h2>Experiences:</h2>
