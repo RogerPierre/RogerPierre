@@ -1,40 +1,40 @@
-<h1 align="center">👋 Olá, eu sou o Roger Pierre</h1>
+# Olá! Sou o Roger Pierre 👋
 
-<p align="center">
-  Estudante do <strong>Instituto Federal do Piauí (IFPI)</strong> — turma de <strong>Análise e Desenvolvimento de Sistemas (ADS) 2025</strong>.<br>
-  Atualmente, estou focado em meus estudos e explorando o mundo da tecnologia.
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** pelo Instituto Federal do Piauí (IFPI - Campus Piripiri).
+
+Atuo no desenvolvimento de aplicações web e na análise de dados públicos e relacionais. Tenho interesse em unir práticas de **Engenharia de Software (Full-Stack)** com **Manipulação e Análise de Dados** para resolução de problemas reais.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens & Web:** JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+- **Front-end & UI:** React, Next.js, Tailwind CSS
+- **Back-end & Banco de Dados:** Node.js, PostgreSQL, Supabase, REST APIs
+- **Análise de Dados:** Extração, Limpeza e Tratamento de Dados, Consultas SQL Avançadas
+- **Ferramentas & Workflow:** Git, GitHub, Vercel, VS Code, GitHub Codespaces, Balsamiq, Trello
+
+---
+
+### 📊 Destaque Acadêmico & Pesquisa
+
+- 📄 **Artigo Publicado (Congresso CODEC):** *"Utilização do Banco de Dados DATASUS em Pesquisas Científicas sobre Saúde Pública no Brasil"*
+  - Levantamento, higienização e estruturação de microdados públicos para análise epidemiológica.
+- 🏛️ **Projetos no IFPI:** Modelagem de bancos de dados relacionais, criação de esquemas em PostgreSQL e consumo de APIs REST em projetos práticos.
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 ---
 
-### 💼 Experiências
+### 📫 Como me encontrar
 
-<ul>
-  <li>💡 Participei do <strong>IDEATHON</strong> em Piripiri (2025).</li>
-  <li>📚 Apresentei uma <strong>revisão narrativa</strong> junto com 
-    <a href="#">Déric</a> e <a href="#">Raira</a>, sob orientação de 
-    <a href="#">Jeferson Soares</a>.
-  </li>
-  <li>🚀 Pretendo participar de mais eventos tecnológicos e colaborar em projetos diversos.</li>
-</ul>
-
----
-
-### 💻 Tecnologias que utilizo
-
-<ul>
-  <li>⚙️ TypeScript / Node.js</li>
-  <li>🐍 Python</li>
-  <li>🌱 Git / GitHub</li>
-</ul>
-
----
-
-<p align="center">
-  💬 <em>“Aprender é transformar curiosidade em conhecimento.”</em>
-</p>
-
-  <!--
-**RogerPierre/RogerPierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **E-mail:** seu.email@email.com
+- **Localização:** Piripiri, PI — Brasil
