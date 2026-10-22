@@ -27,8 +27,8 @@ Atuo no desenvolvimento de aplicações web e na análise de dados públicos e r
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RogerPierre&show_icons=true&theme=radial&count_private=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerPierre&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 ---
