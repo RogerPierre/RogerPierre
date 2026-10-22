@@ -35,6 +35,6 @@ Atuo no desenvolvimento de aplicações web e na análise de dados públicos e r
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/roger-pierre-956aab379?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **E-mail:** seu.email@email.com
 - **Localização:** Piripiri, PI — Brasil
